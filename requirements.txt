@@ -1,4 +1,4 @@
-Django==2.2.7
+Django==2.2.8
 django-extensions-shell==1.7.4.1
 ipdb==0.12.2
 ipython==7.9.0
